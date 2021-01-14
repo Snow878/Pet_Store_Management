@@ -1,6 +1,8 @@
 # Pet_Store_Management
 • A Web Application from where customers can adopt pets and buy pet products.
+
 • The system has also been created in order to provide protection for pet animals.
+
 • Admin can also update the pet details depending upon the number of pets available.
 
 It provides the store with a wide variety of applications. Customers or pet owners and
